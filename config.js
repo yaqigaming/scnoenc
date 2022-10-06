@@ -38,9 +38,9 @@ global.snh = '-' // my youtube channel
 
 /*============== PAYMENT ==============*/
 global.pdana = '087805669475' //dana
-global.povo = '087805669475' //ovo
+global.povo = '-' //ovo
 global.pgopay = 'minta ke owner' //gopay
-global.plinkaja = '087805669475' //link aja
+global.plinkaja = '-' //link aja
 global.ppulsa = '-' //telkomsel
 global.ppulsa2 = '087805669475' // kalau ada kartu lain isi aja
 global.psaweria = '-'
