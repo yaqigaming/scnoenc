@@ -34,7 +34,7 @@ global.sig = '-'
 global.sgh = 'github.com/yaqigaming' //github
 global.sgc = 'https://chat.whatsapp.com/L2EUTTf03Gl6APEo8YGh7H' //group whatsapp
 global.sdc = '-' //discord
-global.snh = '-' // my youtube channel
+global.snh = 'https://m.youtube.com/channel/UCor3uAFL7TwCt2O8D_6cY7A' // my youtube channel
 
 /*============== PAYMENT ==============*/
 global.pdana = '087805669475' //dana
