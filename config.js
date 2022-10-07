@@ -59,9 +59,9 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 /*============== STAFF ==============*/
 global.owner = [
   ['6281215626270', 'DENARA', true],
-  ['6287805669475', 'isi_kalau_ada', true],
-  ['6285730709973', 'isi_kalau_ada', true],
-  ['-', 'isi_kalau_ada', true] //Ganti jd nomormu sama Namamu
+  ['6287805669475', 'MUSO PKI', true],
+  ['6285730709973', 'MEGAWATI', true],
+  ['-', '-', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -189,8 +189,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'DENARA-BOT-V1'
-global.stickauth = `By ©DENARA BOT`
+global.stickpack = '-'
+global.stickauth = `-`
 
 global.multiplier = 38 // The higher, The harder levelup
 
