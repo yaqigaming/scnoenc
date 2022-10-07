@@ -31,19 +31,19 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = '-'
-global.sgh = '-' //github
+global.sgh = 'github.com/yaqigaming' //github
 global.sgc = '-' //group whatsapp
 global.sdc = '-' //discord
 global.snh = '-' // my youtube channel
 
 /*============== PAYMENT ==============*/
 global.pdana = '087805669475' //dana
-global.povo = '-' //ovo
+global.povo = '087805669475' //ovo
 global.pgopay = 'minta ke owner' //gopay
-global.plinkaja = '-' //link aja
-global.ppulsa = '-' //telkomsel
-global.ppulsa2 = '087805669475' // kalau ada kartu lain isi aja
-global.psaweria = '-'
+global.plinkaja = '087805669475' //link aja
+global.ppulsa = '087805669475' //telkomsel
+global.ppulsa2 = '087762205804' // kalau ada kartu lain isi aja
+global.psaweria = 'https://saweria.co/Yaqi'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6287762205804'
@@ -61,7 +61,7 @@ global.owner = [
   ['6281215626270', 'DENARA', true],
   ['6287805669475', 'MUSO PKI', true],
   ['6285730709973', 'MEGAWATI', true],
-  ['-', '-', true] //Ganti jd nomormu sama Namamu
+  ['6285730709973', 'SOEHARTO', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
