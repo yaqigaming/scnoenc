@@ -41,7 +41,7 @@ global.pdana = '087805669475' //dana
 global.povo = '087805669475' //ovo
 global.pgopay = 'minta ke owner' //gopay
 global.plinkaja = '087805669475' //link aja
-global.ppulsa = '087805669475' //telkomsel
+global.ppulsa = '087805669475' //XL
 global.ppulsa2 = '087762205804' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.co/Yaqi'
 
@@ -49,7 +49,7 @@ global.psaweria = 'https://saweria.co/Yaqi'
 global.nomorbot = '6287762205804'
 global.nomorown = '6287805669475'
 global.namebot = 'MUSO BOT'
-global.nameown = 'MUSO PKI'
+global.nameown = 'SOEHARTO'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -59,9 +59,9 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 /*============== STAFF ==============*/
 global.owner = [
   ['6281215626270', 'DENARA', true],
-  ['6287805669475', 'MUSO PKI', true],
+  ['6287805669475', 'SOEHARTO', true],
   ['6285730709973', 'MEGAWATI', true],
-  ['6285730709973', 'SOEHARTO', true] //Ganti jd nomormu sama Namamu
+  ['-', '-', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
